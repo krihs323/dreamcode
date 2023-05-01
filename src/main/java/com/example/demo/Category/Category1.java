@@ -1,4 +1,4 @@
-package com.example.demo.Category;
+package com.example.demo.category;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
